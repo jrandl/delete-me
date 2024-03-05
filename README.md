@@ -1,2 +1,2 @@
-# delete-me-
+# delete-me
 my temporary project repo
